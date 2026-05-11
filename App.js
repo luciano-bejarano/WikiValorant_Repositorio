@@ -2,7 +2,7 @@
 import { StatusBar } from 'expo-status-bar' 
 import { StyleSheet, ScrollView, SafeAreaView } from 'react-native' 
 import Encabezado from './componentes/inicio/Encabezado' 
-import PiePagina from './componentes/inicio/PiePagina' 
+import PiePagina from './componentes/inicio/Pie_Pagina' 
   
 export default function App() { 
   return ( 

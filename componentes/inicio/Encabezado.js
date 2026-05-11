@@ -28,15 +28,14 @@ export default function Encabezado() {
 const estilos = StyleSheet.create({ 
   encabezado: { 
     flexDirection: 'row',
-    backgroundColor: '#363c4f', 
+    backgroundColor: '#242937', 
   }, 
   encabezado_titulo: { 
-    padding: 20, 
+    alignItems: 'center',
     flexDirection: 'row',
-    backgroundColor: '#363c4f', 
+    backgroundColor: '#242937', 
   }, 
   titulo: { 
-    marginTop: 35,
     fontSize: 22, 
     fontFamily: 'Valorant_fuente',
     color: '#fff', 
